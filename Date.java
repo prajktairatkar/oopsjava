@@ -36,10 +36,7 @@ void setDate(int day,int month,int year)
 {
 	
 }
-public static void jump(Ball4 obj) {
-	// TODO Auto-generated method stub
-	
-}
+
 public static void move() {
 	// TODO Auto-generated method stub
 	
